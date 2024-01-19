@@ -4,7 +4,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=)
 
-<img src="https://drmarcellolopes.site.med.br/fmfiles/index.asp/::XPR1MAIP::/Calculadora.png" align="center" width="280"> <br>
+<img src="FOTO.png" align="center" width="300"> <br>
 
 ## DESCRIÇÃO:
 A calculadora desenvolvida é uma aplicação gráfica simples implementada em Python usando a biblioteca Tkinter. Aqui está uma descrição de como ela funciona e quais são suas funcionalidades:
