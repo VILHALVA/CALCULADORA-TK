@@ -30,8 +30,27 @@ A calculadora desenvolvida é uma aplicação gráfica simples implementada em P
 6. **Manuseio de Erros:**
    - A aplicação tenta avaliar a expressão inserida, e caso haja um erro durante a avaliação (por exemplo, uma divisão por zero), o resultado exibido é "Erro".
 
-## SAIBA MAIS:
+## EXECUTANDO O PROJETO:
+1. Execute o arquivo Python.
+2. Isso abrirá a interface da calculadora.
+3. Use os botões numéricos e operadores para realizar cálculos.
+4. Para adicionar números ou operadores à expressão, clique nos botões correspondentes na interface da calculadora.
+5. Para calcular o resultado da expressão, clique no botão '='.
+6. O resultado será exibido no campo de entrada.
+7. Para limpar a entrada, clique no botão 'C'.
+8. Para sair da calculadora, feche a janela.
+
+## SOBRE O EXECUTAVEL:
+- Este arquivo executável está disponível apenas para `Windows X64`. Para executá-lo, basta dar dois cliques. O executável é bastante útil caso o Python não esteja instalado. Trata-se da mesma aplicação do arquivo `CODIGO.py`. Se desejar, você pode recompilá-lo novamente; é para isso que forneci o arquivo `imagem.ico`.
+
+## NÃO SABE?
+- Entendemos que para manipular arquivos em muitas linguagens e tecnologias, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
+* [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+* [CURSO DE TKINTER](https://github.com/VILHALVA/CURSO-DE-TKINTER)
+* [CURSO DE EXE](https://github.com/VILHALVA/CURSO-DE-EXE)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+
+## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [FAÇA OS NOSSOS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 
