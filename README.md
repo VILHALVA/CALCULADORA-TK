@@ -31,7 +31,10 @@ A calculadora desenvolvida é uma aplicação gráfica simples implementada em P
    - A aplicação tenta avaliar a expressão inserida, e caso haja um erro durante a avaliação (por exemplo, uma divisão por zero), o resultado exibido é "Erro".
 
 ## EXECUTANDO O PROJETO:
-1. Execute o arquivo Python.
+1. Navegue até o diretório `./CODIGO`, e execute o arquivo Python com o comando:
+```bash
+python CODIGO.py
+```
 2. Isso abrirá a interface da calculadora.
 3. Use os botões numéricos e operadores para realizar cálculos.
 4. Para adicionar números ou operadores à expressão, clique nos botões correspondentes na interface da calculadora.
